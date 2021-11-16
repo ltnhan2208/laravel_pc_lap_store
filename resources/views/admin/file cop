@@ -1,0 +1,20 @@
+Trạng thái đơn hàng:
+0: đã đặt - chưa xác nhận
+1: đang giao 
+2: đã giao , thanh toán
+3: đã thanh toán - chưa giao
+4: đã thanh toán, đang giao
+2: đã giao , thanh toán 
+5:tách đơn-đơn nợ chưa thanh toán, chưa giao
+6:tách đơn-đơn nợ đang giao
+2: đã giao , thanh toán
+7:đã thanh toán, đơn bổ sung, chưa giao
+8:đã thanh toán, đon bổ sung,đang giao
+2:đã giao, thanh toán 
+
+9:hủy
+10:hủy đã xem
+
+
+///////////
+
